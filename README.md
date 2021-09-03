@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiarabonfigli, I'm a geologist and I'm currently working on my thesis for the master degree!
 - 👀 I’m interested in learning HTML, CSS, Python 
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate to use this coding languages for geological purposes.
+- 💞️ I’m looking to collaborate for the use of these coding languages in geological and natural sciences studies
 - 📫 My email: chiara.bonfigli@yahoo.com
