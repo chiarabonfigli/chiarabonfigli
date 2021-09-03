@@ -1,0 +1,39 @@
+<html>
+    <head>
+            <title>Marie Curie</title>
+    </head>
+  <body>
+      <main>
+        <h1 id="title">Marie Curie</h1>
+      <h2>La donna che scoprì radio e plutonio</h2>
+        
+      </main>
+      
+      <div id="img-div"> 
+        <figure>
+        <img id="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnXJYW5tV6cdCq8oCHOp6D-GweRR8zcXQJg&usqp=CAU" alt="">
+        </figure>
+        <figcaption id="img-caption">
+            Fig_1 Bianco e nero che raffigura Marie Curie
+        </figcaption>
+     </div>  
+      <p > Marie Curie è stata una  una fisica, chimica e matematica polacca naturalizzata francese.</p>
+      <h3> Scopriamo alcune informazioni sulla vita della scienziata:</h3>
+      <div id="tribute_info">
+      <ul>
+        <li>Marie Curie nasce a Varsavia il 7 novembre 1867</li>
+        <li>La scienziata crebbe in Polonia ma dato che ai tempi non era consentito alle donne proseguire gli studi superiori si trasferì in Francia</li>
+        <li>1981 - Iniziò a frequentare la Sorbona a Parigi e qui rimase fino alla laurea in fisica e matematica</li>
+        <li>1987 - A Dicembre iniziò a compiere i primi studi sulle sostanze radioattive </li>
+        <li>1903 - Fu insignita del premio Nobel per la fisica, assieme al marito Pierre Curie e ad Antoine Henri Becquerel, per i loro studi sulle radiazioni </li>
+        <li>1906 - Il marito Pierre morì investito da una carrozza e le fu concesso di insegnare alla Sorbona.</li>
+        <li>1911 - del premio Nobel per la chimica per la sua scoperta del radio e del polonio, il cui nome venne scelto dalla scienziata proprio in onore della sua terra. </li>
+        <li>1934 - Il 4 Luglio Marie Curie morì a causa delle radiazioni a cui era a lungo stata sottoposta</li>
+      </ul>
+    </div>
+
+    <p> Ti interessa sapere di più di questa formidabile scienziata? Trova più informazioni su <a target="_blank" href="https://it.wikipedia.org/wiki/Marie_Curie"> Wikipedia </a></p>
+
+  </body>
+  <footer></footer>
+</html>
